@@ -1,6 +1,6 @@
 # buildh3r-september-workshop
 
-Each Workshop folder contains the solution.
+This repo consists of my work for the BUILDH3R Interactive Learn and Earn Workshops, held in September 2024.
 
 # Solutions
 
